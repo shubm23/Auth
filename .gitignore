@@ -1,0 +1,8 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.babelrc
+.watchmanconfig
+app.json
+package-lock.json
+assets/
